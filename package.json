@@ -1,5 +1,5 @@
 {
-  "name": "vite-scaffold",
+  "name": "pokedex-vue",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
@@ -8,6 +8,7 @@
     "lint": "eslint --ext .js,.vue src --fix"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
     "vue": "^3.0.11"
   },
   "devDependencies": {

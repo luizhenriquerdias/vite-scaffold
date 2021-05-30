@@ -1,2 +1,2 @@
-# vite-scaffold
-A scaffold for Vite (Vue)
+# pokedex-vue
+A simple pokedex made with Vue.js
